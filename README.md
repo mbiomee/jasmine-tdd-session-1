@@ -1,3 +1,2 @@
-# jasmine-testing-qebckf
+# jasmine-TDD-session1
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/jasmine-testing-qebckf)
